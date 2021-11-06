@@ -47,3 +47,7 @@ There's a bunch of settings you might want to change in your profile in order to
 
 - **Transparency** to **10-15%**
 - **Blur** to **40-50%**
+
+
+### Install autosuggestion 
+Check [this](https://hackernoon.com/customize-oh-my-zsh-with-syntax-highlighting-and-auto-suggestions-6q1b3w8o) link
